@@ -1,6 +1,6 @@
-[submodule "ios"]
-	path = ios
-	url = https://github.com/alicedapp/AliceX-iOS-DAOStack.git
 [submodule "android"]
 	path = android
 	url = https://github.com/alicedapp/Alice-Android.git
+[submodule "ios"]
+	path = ios
+	url = https://lmcmz@github.com/alicedapp/AliceX-iOS-DAOStack

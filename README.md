@@ -34,7 +34,7 @@ If we don't get back to you immediately there will be many other resources *coug
 1. Run following command in your terminal:<br/>
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/alicedapp/AliceX/master/install.ios.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/alicedapp/DAOstack/master/install.ios.sh)"
 ```
 
 2. You will need to add a `env.json` file in the root of the AliceX project to with API keys to run the project.

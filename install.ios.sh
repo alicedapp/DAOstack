@@ -37,7 +37,7 @@ then
 	exit 1
 fi
 
-git clone https://github.com/alicedapp/AliceX
+git clone https://github.com/alicedapp/DAOstack
 cd AliceX
 yarn
 git submodule update --init --recursive
