@@ -46,7 +46,7 @@ class DAOstackContainer extends Component {
       <Fragment>
         <SafeAreaView></SafeAreaView>
         <SafeAreaView style={{flex: 1}}>
-          <View style={{flex: 1, marginBottom: 70}}>
+          <View style={{flex: 1}}>
             <ApolloProvider client={client}>
               <App
                 navigation={this.props.navigation}
